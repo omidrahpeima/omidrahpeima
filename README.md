@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omidrahpeima
-- 👀 I’m interested in PHP, Laravel, Css, Jquery, Git and other new wonderful things
-- 🌱 I’m currently learning Git
+- 👀 I’m interested in PHP, Laravel, Css, Jquery, Git and other new wonderful industries
+- 🌱 I’m currently learning Jquery
 - 💞️ I’m looking to collaborate on developing my experience in full stack developing
 - 📫 How to reach me: by email
 
